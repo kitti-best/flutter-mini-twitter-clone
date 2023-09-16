@@ -1,16 +1,12 @@
-# twitter_clone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Twitter clone
+## Introduction
+This is a twitter clone project using flutter dart. <br>
+It a twitter clone but not a full functional one. <br>
+Using ** supabase ** as database since I'm newbie to this.
+## Functionality
+- Login through email.
+- Edit your full name or username.
+- Search for tweets.
+- Create a tweet.
+- Retweet and like.
+- Delete your own tweet.
